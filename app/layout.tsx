@@ -1,3 +1,4 @@
+export const dynamic = 'error'
 
 export default function RootLayout({
   children,
